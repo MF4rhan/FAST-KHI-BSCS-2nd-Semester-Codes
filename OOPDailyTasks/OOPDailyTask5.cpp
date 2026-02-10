@@ -101,6 +101,7 @@ void findMostFriends(Party part[],int size)
 	cout << "Venue: "<< part[index].getVenue()<<endl;
 	cout << "Total Attending: "<< part[index].getFrens()<<endl;
 }
+
 Party getMostFriends(Party part[],int size)
 {
 	int highest=0, index=0;
