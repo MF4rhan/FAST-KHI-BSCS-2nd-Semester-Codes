@@ -1,4 +1,9 @@
-This is my repository for the 2nd semester at FAST.
-Later ill probably combine both the 1st and 2st semester repositories into a single one named "University Semesters".
+# FAST NUCES — 2nd Semester Coursework (Partial)
 
-Update: I will be archiving my 1st and 2nd semester repositories at the time of this update (3/8/26) and create a new repository called "University" That will house all of my current things and more.
+> ⚠️ This repository is archived and incomplete. Active work has moved to [University](https://github.com/MF4rhan/University).
+
+This repository contains early 2nd semester coursework at FAST NUCES Karachi, before moving to a unified University repository. OOP tasks and practice code in C++.
+
+## Contents
+- **OOPDailyTasks:**  Early OOP lab tasks (classes, inheritance, polymorphism, operator overloading)
+- **Practice:**  Miscellaneous practice code written alongside coursework
